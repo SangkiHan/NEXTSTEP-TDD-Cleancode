@@ -16,3 +16,6 @@ https://github.com/SangkiHan/java-ladder
 
 ### 수강신청 - 레거시 코드 리팩터링
 https://github.com/SangkiHan/java-lms
+
+<img width="1049" alt="스크린샷 2024-11-08 오후 11 00 40" src="https://github.com/user-attachments/assets/8e947687-fec6-419d-85b4-ce0fa1d6fd3e">
+
