@@ -1,4 +1,4 @@
-# NextStep-TDD-Cleancode
+# NEXTSTEP-TDD-Cleancode
 NextStep TDD, 클린 코드 with Java 19기
 
 자동차 경주 게임, 로또, 사다리타기, 수강신청과 같은 과제를 수행하며 매주 다양한 리뷰어들에게 PR을 올리고 피드백을 받아 TDD(Test Driven Development)와 클린 코드를 통해 효율적이고 유지보수 가능한 소프트웨어 개발, 순수 자바로 객체지향 프로그래밍 및 레거시 코드 리팩토링을 경험하는 과정입니다.   
